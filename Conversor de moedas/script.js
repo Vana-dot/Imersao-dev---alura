@@ -3,7 +3,7 @@ function Converter(){
     var moedaConvertida = valorInput * 5.21480;
     var moedaEmBitcon = valorInput * 0.000047;
     document.getElementById("valorConvertido").innerHTML = "R$ "+ moedaConvertida.toFixed(2) +"<br>"+ "Em Bitcon " + moedaEmBitcon;
-
+     
 }
     
 

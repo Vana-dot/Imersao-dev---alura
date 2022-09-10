@@ -18,14 +18,14 @@ media(10,5,10,5)
 function notaFinal(){
     const notas = document.querySelectorAll("#nota");
     var valores = [].map.call(notas, function (input) {
-        return input.value;
+        return parseFloat(input.value);
       });
-
+      
       var valoresInt = [];
       var soma = 0;
 
       for (var i = 0; i < valores.length; i++){
-         valoresInt.push(parseFloat(valores[i]));
+         valoresInt.push(valores[i]);
          soma += valoresInt[i]/4;
       }
      
