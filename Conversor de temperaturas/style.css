@@ -33,7 +33,7 @@ body {
     color: white;
   }
   
-  #button {
+  #button{
     margin-top: 12px;
     padding: 4px 8px;
     border-radius: 5px;
@@ -41,6 +41,9 @@ body {
     color: #ffffff;
     font-size: 20px;
 
+  }
+  #temperaturas{
+    background-color: #61efff;
   }
   
   h2, span{

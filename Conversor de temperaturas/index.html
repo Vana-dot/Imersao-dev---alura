@@ -11,10 +11,16 @@
     <div class="container">
         <h1 class="page-title">
           Conversor de temperaturas
+          <select name="temperaturas" id="temperaturas">
+            <option value="#">Escolha a temperatura</option>
+            <option value="celsius">Celsius</option>
+            <option value="kelvius">Kelvius</option>
+            <option value="fahrenheit">Fahrenheit</option>
+          </select>
         </h1>
     
 
-        <label for="temperaturas">Insira o valor em Celsius para converter em fahrenheit</label><br>
+        <label for="temperatura">Insira o valor a ser convertido</label><br>
         <input type="number"   id="temperatura" size="10" /> <span> = </span> <button style="display: none;"  id="temperaturaConvertida"></button><br>
         <button id="button" type="submit" onclick="ConverterTemperaturas()">Converter</button>
         
