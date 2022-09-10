@@ -1,0 +1,52 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    background: linear-gradient(90deg, hsla(217, 100%, 50%, 1) 0%, hsla(186, 100%, 69%, 1) 100%)
+  }
+  
+  .container {
+    margin-top: 20px;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  .page-title {
+    color: #ffffff;
+    margin: 40px 0 20px;
+  }
+  #temperaturaConvertida{
+    background: #ffffff;
+    width: 125px;
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+    
+  }
+  
+  input {
+    text-align: center;
+    margin: 12px;
+    padding: 6px;
+    border-radius: 5px;
+  }
+  
+  label {
+    color: white;
+  }
+  
+  #button {
+    margin-top: 12px;
+    padding: 4px 8px;
+    border-radius: 5px;
+    background: #45caff;
+    color: #ffffff;
+    font-size: 20px;
+
+  }
+  
+  h2, span{
+    color: #ffffff;
+    font-size: 30px;
+  }
+ 
+
+  
