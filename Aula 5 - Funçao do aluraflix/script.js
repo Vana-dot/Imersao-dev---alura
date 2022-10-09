@@ -23,4 +23,3 @@ function listarFilmesNaTela(filme){
 
 }
 
-console.log(filme)
