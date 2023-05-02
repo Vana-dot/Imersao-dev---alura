@@ -34,8 +34,6 @@ var cartaJogador;
 function sortearCarta() {
     var numeroCartaMaquina = parseInt(Math.random() * cartas.length);
     cartaMaquina = cartas[numeroCartaMaquina];
-    console.log(cartaMaquina);
-   
     
    var numeroCartaJogador = parseInt(Math.random() * cartas.length);
    while (numeroCartaMaquina == numeroCartaJogador){
@@ -51,7 +49,12 @@ function sortearCarta() {
 
 function exibirOpcoes(){
     var opcoes = document.getElementById("opcoes")
+    
+    for (var atributo in cartaJogador.atributos){
+        console.log(atributo + ":" + cartaJogador.atributos[atributo]);
+    }
 }
 
 
 sortearCarta();    
+exibirOpcoes();
