@@ -13,7 +13,5 @@ function ConverterReal(){
     var moedaEmBitconReal = valorInputReal * 0.0000091;
     document.getElementById("valorConvertidoReal").innerHTML = "R$ "+ moedaConvertidaReal.toFixed(2) +"<br>"+ "Em Bitcon " + moedaEmBitconReal;
     
-
-
 }
 
