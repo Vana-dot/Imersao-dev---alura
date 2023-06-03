@@ -38,9 +38,13 @@ Projeto desenvolvido no evento da Alura
 
 ### Projeto da aula 9
 
-![Projeto 9](/Img_projects/aula_9_figma_portfolio.png) 
+![Projeto 9](/Img_projects/aula_9_figma_portfolio.png)
 
-### Projeto da aula 10(Com fundo Branco)
+## Projeto da aula 10
+
+Esse projeto conta com um botão de alteração do tema da página
+
+### Projeto da aula 10(Com fundo white)
 
 ![Projeto 10 fundo branco](/Img_projects/aula_10_imagem_white_portfolio.pngportfolio.png)
 
