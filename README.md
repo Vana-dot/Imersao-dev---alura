@@ -44,6 +44,6 @@ Projeto desenvolvido no evento da Alura
 
 ![Projeto 10 fundo branco](/Img_projects/aula_10_imagem_white_portfolio.pngportfolio.png)
 
-### Projeto da aula 10 (Com fundo preto)
+### Projeto da aula 10 (Com fundo dark)
 
-![Projeto 10 fundo branco](/Img_projects/aula_10_imagem_dark_portfolio.png)
+![Projeto 10 fundo dark](/Img_projects/aula_10_imagem_dark_portfolio.png)
