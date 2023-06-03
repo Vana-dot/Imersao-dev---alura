@@ -35,3 +35,15 @@ Projeto desenvolvido no evento da Alura
 ### Projeto da aula 8
 
 ![Projeto 8](/Img_projects/aula_8_super_trunfo_cartas.png)
+
+### Projeto da aula 9
+
+![Projeto 9](/Img_projects/aula_9_figma_portfolio.png) 
+
+### Projeto da aula 10(Com fundo Branco)
+
+![Projeto 10 fundo branco](/Img_projects/aula_10_imagem_white_portfolio.pngportfolio.png)
+
+### Projeto da aula 10 (Com fundo preto)
+
+![Projeto 10 fundo branco](/Img_projects/aula_10_imagem_dark_portfolio.png)

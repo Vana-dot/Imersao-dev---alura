@@ -76,3 +76,22 @@ body{
     text-decoration: none;
     color: #1C1C1C;
 }
+
+.dark{
+    background: linear-gradient(236.85deg, #375B86 27.26%, #6B87A9 96.03%);
+}
+
+.dark .container{
+    background: #333439;
+    color: #f6f6f6;
+}
+
+.dark .projetos{
+    color: #1c1c1c;
+}
+
+.dark .thema button{
+    background: #353535;
+    color: #f6f6f6;
+    border: 2px solid #f7f7ff7;
+}
