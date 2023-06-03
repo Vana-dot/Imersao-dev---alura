@@ -44,10 +44,10 @@ Projeto desenvolvido no evento da Alura
 
 Esse projeto conta com um botão de alteração do tema da página
 
-### Projeto da aula 10(Com fundo white)
+### Projeto da aula 10(Tema white)
 
 ![Projeto 10 fundo branco](/Img_projects/aula_10_imagem_white_portfolio.pngportfolio.png)
 
-### Projeto da aula 10 (Com fundo dark)
+### Projeto da aula 10 (Tema dark)
 
 ![Projeto 10 fundo dark](/Img_projects/aula_10_imagem_dark_portfolio.png)
